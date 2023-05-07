@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BIT-BUS(patna)</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="website">bitmesra.ac.in</string>
+    <string name="Profile">Profile</string>
+    <string name="ContactUs">ContactUs</string>
+    <string name="LogOut">LogOut</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Bus_Timing">Bus_Timing</string>
+    <string name="BusTiming">BusTiming</string>
+    <string name="Communicate">Communicate</string>
+    <string name="Location">Location</string>
+    <string name="Share">Share</string>
+    <string name="About">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_map">MAPActivity</string>
+
+</resources>
